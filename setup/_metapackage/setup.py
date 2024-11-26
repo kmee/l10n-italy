@@ -28,6 +28,7 @@ setuptools.setup(
         'odoo12-addon-l10n_it_bill_of_entry',
         'odoo12-addon-l10n_it_causali_pagamento',
         'odoo12-addon-l10n_it_central_journal',
+        'odoo12-addon-l10n_it_central_journal_reportlab',
         'odoo12-addon-l10n_it_codici_carica',
         'odoo12-addon-l10n_it_corrispettivi',
         'odoo12-addon-l10n_it_corrispettivi_fatturapa_out',
